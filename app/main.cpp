@@ -2,9 +2,7 @@
 #include <unordered_map>
 #include <string>
 
-// If you really want to make a program for the app, be my guest.
-// Or better yet, use gtest to automate your own test cases!
-// Remember, we use gtest to grade, not your main.
+// Main should contain all test cases or anything to be printed on the screen.
 
 int main()
 {
